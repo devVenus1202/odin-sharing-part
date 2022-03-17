@@ -1,0 +1,48 @@
+"oltIp","port","onuId","interfaceName","serialNumber","description","adminStatus","operStatus","rxPower","fibreLength","uptime"
+"172.17.0.206","7","20","onu 1101.7.20","ADTN201166F6","onu-0/7-20 - 20 HAZEL CRESCENT, PETERLEE, SR8 3HP","up","up",-208,6445,364414
+"172.17.0.208","1","1","onu 1101.1.1","ADTN20111E5F","onu-0/1-1 - Feka Test ONT02","up","down",,,
+"172.17.1.4","4","2","onu 1101.4.2","ADTN20304D76","onu-0/4-2 - 14 SOUTH STREET, DURHAM, DH6 1HP","up","up",-201,5547,474552
+"172.17.1.6","10","1","onu 1101.10.1","ADTN11112222","onu-0/10-1 - Dummy ONT","up","down",,,
+"172.17.1.6","9","2","onu 1101.9.2","ADTN11112222","onu-0/9-2 - Dummy ONT","up","down",,,
+"172.17.1.6","12","2","onu 1101.12.2","ADTN88888899","onu-0/12-2 - Dummy ONU","up","down",,,
+"172.17.1.6","12","4","onu 1101.12.4","ADTN88888999","onu-0/12-4 - Dummy ONU","up","down",,,
+"172.17.1.6","15","2","onu 1101.15.2","ADTN88889999","onu-0/15-2 - Dummy ONU",,,,,
+"172.17.1.6","15","3","onu 1101.15.3","ADTN88899999","onu-0/15-3 - Dummy ONU",,,,,
+"172.17.1.6","12","5","onu 1101.12.5","ADTN88899991","onu-0/12-5 - Dummy ONU","up","down",,,
+"172.17.1.6","12","6","onu 1101.12.6","ADTN88899111","onu-0/12-6 - Dummy ONU","up","down",,,
+"172.17.1.6","10","2","onu 1101.10.2","ADTN11112222","onu-0/10-2 - Dummy ONU","up","down",,,
+"172.17.1.15","1","1","onu 1101.1.1","ADTN20111E5F","onu-0/1-1 - Feka Test ONT02","up","down",,,
+"172.17.1.15","4","1","onu 1101.4.1","ADTN11112222","onu-0/4-1 - Dummy ONT","up","down",,,
+"172.17.1.15","5","0","onu 1101.5.0","ADTN11112222","onu-0/5-0 - Dummy ONU","up","down",,,
+"172.17.1.14","3","0","onu 1101.3.0","ADTN11112222","onu-0/3-0 - Dummy ONT","up","down",,,
+"172.17.1.14","3","5","onu 1101.3.5","ADTN88889999","onu-0/3-5 - Dummy ONU","up","down",,,
+"172.17.1.14","3","6","onu 1101.3.6","ADTN88889998","onu-0/3-6 - Dummy ONU","up","down",,,
+"172.17.1.14","4","0","onu 1101.4.0","ADTN11111111","onu-0/4-0 - DUMMY ONU","up","down",,,
+"172.17.1.19","10","20","onu 1101.10.20","ADTN20116CF5","onu-0/10-20 - 5 Longhill Court DH78LN","up","up",-250,6495,469186
+"172.17.1.19","10","21","onu 1101.10.21","ADTN20116B2B","onu-0/10-21 - 15 Littlewood Close Dh7 8LP","up","up",-226,6748,451446
+"172.17.1.18","1","2","onu 1101.1.2","ADTN20304CD3","onu-0/1-2 - 89 Taylorrrrs Avenue, Durham DH7 7AX","up","up",-233,9049,471851
+"172.17.1.18","1","3","onu 1101.1.3","ADTN20304CDB","onu-0/1-3 - 93 Taylorrrrs Avenue, Durham DH7 7AX","up","up",-216,8870,471413
+"172.17.1.16","1","3","onu 1101.1.3","ADTN20116D74","onu-0/1-3 - 46 Hilltop Road DH7 7TL","up","up",-246,8109,476370
+"172.17.1.16","5","4","onu 1101.5.4","ADTN2030511C","onu-0/5-4 - 48 Chadwick Close DH7 7RH","up","up",-269,6721,460713
+"172.17.0.203","16","0","onu 1101.0.0","ATDN12345678","onu-0/0-0 - Feka Test","up","down",,,
+"172.17.0.196","12","0","onu 1101.12.0","ADTN20111D69","onu-0/12-0 - Unassigned","up","down",,,
+"172.17.0.196","6","0","onu 1101.6.0","ADTN20111EEC","onu-0/6-0 - Unassigned","up","down",,,
+"172.17.0.196","14","3","onu 1101.14.3","ADTN20111EF1","onu-0/14-3 - Unassigned","up","down",,,
+"172.17.0.196","16","0","onu 1101.0.0","ATDN12345678","onu-0/0-0 - Feka Test","up","down",,,
+"172.17.0.196","12","3","onu 1101.12.3","ADTN20116D97","onu-0/12-3 - 34 Brandling Court DH6 2QE","up","up",-276,6259,465716
+"172.17.0.204","11","0","onu 1101.11.0","ADTN2010128D","onu-0/11-0 - Horden Library","down","down",,,
+"172.17.0.198","9","2","onu 1101.9.2","ADTN2011294C","onu-0/9-1 - unused","up","down",,,
+"172.17.0.198","8","8","onu 1101.8.8","ADTN20111E5F","onu-0/8-8 - FEKA TEST","up","down",,,
+"172.17.0.203","16","0","onu 1101.0.0","ATDN12345678","onu-0/0-0 - Feka Test","up","down",,,
+"172.17.0.194","1","0","onu 1101.1.0","ADTN20111EEC","onu-0/1-0 - Test Jeremy Voice","up","down",,,
+"172.17.0.194","13","13","onu 1101.13.13","ADTN20111E5F","onu-0/13-13 - FEKA TEST","up","down",,,
+"172.17.1.66","1","5","onu 1101.1.5","ADTN20116E15","onu-0/1-5 - 43 Rushmoor DL16 6NX","up","up",-198,1051,368581
+"172.17.0.200","6","10","onu 1101.6.10","ADTN20116ECC","onu-0/6-10 - 11 Pickard Close, SR8 5LZ","up","up",-274,1988,19259
+"172.17.0.197","8","7","onu 1101.8.7","ADTN11112222","onu-0/8-7 - Dummy ONU","up","down",,,
+"172.17.0.201","16","6","onu 1101.0.6","ADTN88888888","<onu-id-long> - BLANK","up","down",,,
+"172.17.1.68","10","0","onu 1101.10.0","ADTN20304CE4","onu-0/10-0 - 15 Barrington Terrace, Ferryhill, DL17 8NW","up","up",-222,5226,482272
+"172.17.1.68","16","3","onu 1101.0.3","ADTN20116D03","onu-0/0-3 - 11 Hewick Rd Spennymoor","up","up",-176,2643,468638
+"172.17.1.69","12","11","onu 1101.12.11","ADTN20116CFF","onu-0/12-11 - 19 Meadow Green Spennymoor","up","up",-204,2714,134436
+"172.17.1.69","11","10","onu 1101.11.10","ADTN20116D06","onu-0/11-10 - 6 Castle Close Spennymoor","up","up",-228,2776,199662
+"172.17.4.133","4","2","onu 1101.4.2","ADTN201179C5","onu-0/4-2 - 90 Broad Acre Road, Cheltenham GL52 3HU","up","up",-196,4563,454443
+"172.17.4.133","5","0","onu 1101.5.0","ADTN20117943","onu-0/5-0 - 11 Bushel Road, Cheltenham GL52 3NA","up","up",-198,4705,479896

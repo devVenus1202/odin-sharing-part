@@ -1,0 +1,51 @@
+{
+    "OVERRIDE_PREORDER_L2": {
+        "buildStatus": "6-In Progress",
+        "addressStatus": "PRE_ORDER",
+        "ruleDescription": "Update for all build statuses",
+        "opsStatus": "2",
+        "l2PolygonIds": [
+        ]
+    },
+    "OVERRIDE_PREORDER_L4": {
+        "buildStatus": "6-In Progress",
+        "addressStatus": "PRE_ORDER",
+        "ruleDescription": "Update for all build statuses",
+        "opsStatus": "2",
+        "l4PolygonIds": [
+            70327,
+            70440,
+            70453,
+            70466,
+            70468,
+            70484,
+            70485,
+            70488,
+            70566,
+            70573,
+            70574,
+            70610,
+            70616,
+            70617,
+            70641,
+            70642,
+            70643,
+            70644,
+            70648,
+            70650,
+            70651,
+            70653,
+            70654,
+            70655
+        ]
+    },
+    "OVERRIDE_BACKHAUL": {
+        "buildStatus": "6-In Progress",
+        "addressStatus": "PRE_ORDER",
+        "ruleDescription": "Update only if l4 polygon is 8-RFS",
+        "opsStatus": "2",
+        "exPolygonIds": [
+            40870
+        ]
+    }
+}

@@ -1,0 +1,174 @@
+/***********************************************************************************************/
+/* Organization colors */
+/**********************/
+
+.ant-menu-horizontal {
+  color: #fff;
+  background-color: transparent;
+  font-weight: 600;
+  display:flow-root;
+  margin-top:-1px!important;
+}
+
+.ant-menu-horizontal.DefaultColors {
+  background: linear-gradient(24deg, #2b526d 0%, #2e598a 63%);
+}
+
+.ant-menu-horizontal.YouFibreColors {
+  background: linear-gradient(24deg, #599ea8 0%, #633b78 63%);
+}
+
+.ant-menu-horizontal.NetomniaColors {
+  background: linear-gradient(90deg, #db5157 0%, #972074   100%);
+}
+
+.appSwitcher {
+  padding: 0 18px 0 10px !important;
+  //margin: 0 !important;
+}
+.ant-drawer.DefaultColors {
+  .ant-drawer-content {
+    background-color: #23455f;
+  }
+  .ant-drawer-body {
+    padding: 24px 0;
+  }
+}
+.ant-layout-sider.DefaultColors, .ant-menu.DefaultColors {
+  background-color: #23455f;
+  .ant-menu-sub {
+    background-color: #2b526d;
+  }
+}
+.appSwitcher.DefaultColors {
+  background-color: #23455f;
+}
+
+.appSwitcher.YouFibreColors {
+  background-color: #517c8e;
+}
+
+.appSwitcher.NetomniaColors {
+  background-color: #be3b48;
+}
+
+/***********************************************************************************************/
+/* Antd Menu Overrides */
+/**********************/
+.dummyUserAvatar{
+  font-size:1.8em !important;
+  color:#fff;
+  background:#d6d6d6;
+  margin:0 !important;
+  padding:8px;
+  border-radius:100%;
+}
+
+.submenuLogo{
+  max-width:38px;
+}
+
+.ant-menu-submenu:hover {
+  color: #fff !important;
+  border-bottom: 2px solid transparent !important;
+}
+.appSwitcher.ant-menu-submenu-open, .navigationTopItem.ant-menu-submenu-open, .navigationTopItem.ant-menu-submenu-active{
+  color:#fff!important;
+}
+
+.ant-menu-submenu-vertical.ant-menu-submenu-open,.ant-menu-submenu-vertical.ant-menu-submenu-active{
+  color: #000!important;
+}
+
+.ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-submenu:hover::after{
+  border-bottom: none;
+}
+
+.navigationTopItem {
+  margin: 2px 8px 0 15px !important;
+  padding: 0 !important;
+}
+
+.moduleIcon {
+  font-size: 1.4em;
+  padding-bottom: 13px;
+}
+
+.appMenu > .ant-menu-submenu {
+  border-radius: 30px;
+}
+
+.topMenuAppLink {
+  color: black;
+}
+
+.appSwitcher .anticon {
+  font-size: 1.2em;
+}
+
+.appSwitcher .ant-menu-submenu-title:hover, .appSwitcher .ant-menu-submenu-active {
+  color: white !important;
+  top:1px!important;
+  bottom:0px!important;
+}
+
+.activeEntity {
+  font-weight: 700;
+}
+
+.inactiveEntity {
+  font-weight: 400;
+}
+
+.ant-menu-horizontal .ant-menu-item {
+  margin: 0 !important;
+  padding: 2px 20px !important;
+  border-bottom: 0 !important;
+}
+
+.ant-menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.09) !important;
+}
+
+.ant-menu-horizontal a {
+  color: white !important;
+}
+
+.ant-menu-horizontal li:hover {
+  color: white !important;
+}
+
+.ant-menu-vertical a {
+  color: black;
+}
+
+.ant-menu-vertical .ant-menu-submenu-title {
+  margin-top: 0;
+}
+
+.ant-menu-horizontal > .ant-menu-item, .ant-menu-horizontal > .ant-menu-submenu {
+  top: 0;
+  //vertical-align: baseline !important;
+}
+
+.ant-menu-overflowed-submenu {
+  background: transparent !important;
+}
+
+/* Move bigger modals below the main menu on mobile viewport */
+@media (max-width: 767px) {
+
+  .navigationTopItem {
+    margin: 2px 0 0 0 !important;
+    padding: 0 !important;
+  }
+
+  .ant-menu-horizontal .ant-menu-item, {
+    padding:2px 10px !important;
+  }
+
+  .navigationTopItem .ant-menu-submenu {
+    padding-left:20px !important;
+  }
+
+}

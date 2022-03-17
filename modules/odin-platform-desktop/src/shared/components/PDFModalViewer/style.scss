@@ -1,0 +1,32 @@
+.PDFViewerModal {
+   width: 90vh !important;
+}
+
+.react-pdf__Page__canvas{
+  object-fit: contain;
+  background: #efefef;
+}
+
+.PDFViewerModal .ant-modal-body{
+  padding:10px;
+  background: #efefef;
+  overflow: auto;
+}
+
+
+@media (max-width: 767px) {
+
+  .PDFViewerModal  {
+    top:0;
+  }
+
+  .ant-modal-body{
+    overflow: scroll;
+    height:90vh;
+  }
+
+  .react-pdf__Page__canvas{
+    overflow: hidden;
+  }
+
+}

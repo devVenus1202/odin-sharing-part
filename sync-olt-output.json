@@ -1,0 +1,341 @@
+{
+  descriptionErrors: [
+    'bug-fix',
+    'bug-fix',
+    'bug-fix',
+    'bug-fix'
+  ],
+  noOrderItemOnOnt: [
+    {
+      port: '1',
+      onuId: '4',
+      interfaceName: 'onu 1101.1.4',
+      serialNumber: 'ADTN20112579',
+      description: 'onu-0/1-4 - 46 Lambton Court, PETERLEE, SR8 1NG'
+    },
+    {
+      port: '6',
+      onuId: '3',
+      interfaceName: 'onu 1101.6.3',
+      serialNumber: 'ADTN2011255A',
+      description: 'onu-0/6-3 - 32 Balmoral Drive, PETERLEE, SR8 1QP'
+    },
+    {
+      port: '6',
+      onuId: '1',
+      interfaceName: 'onu 1101.6.1',
+      serialNumber: 'ADTN2011614F',
+      description: 'onu-0/6-1 - 37 Winford Grove, WINGATE, TS28 5DU'
+    },
+    {
+      port: '2',
+      onuId: '0',
+      interfaceName: 'onu 1101.2.0',
+      serialNumber: 'ADTN20116123',
+      description: 'onu-0/2-0 - 15 Kings Road, WINGATE, TS28 5JS'
+    },
+    {
+      port: '2',
+      onuId: '1',
+      interfaceName: 'onu 1101.2.1',
+      serialNumber: 'ADTN20112023',
+      description: 'onu-0/2-1 - 13 Bellister Park, PETERLEE, SR8 1PH'
+    },
+    {
+      port: '15',
+      onuId: '2',
+      interfaceName: 'onu 1101.15.2',
+      serialNumber: 'ADTN20304D6B',
+      description: 'onu-0/15-2 - 8 Heath Close, PETERLEE, SR8 5RY'
+    },
+    {
+      port: '1',
+      onuId: '4',
+      interfaceName: 'onu 1101.1.4',
+      serialNumber: 'ADTN20112579',
+      description: 'onu-0/1-4 - 46 Lambton Court, PETERLEE, SR8 1NG'
+    },
+    {
+      port: '6',
+      onuId: '3',
+      interfaceName: 'onu 1101.6.3',
+      serialNumber: 'ADTN2011255A',
+      description: 'onu-0/6-3 - 32 Balmoral Drive, PETERLEE, SR8 1QP'
+    },
+    {
+      port: '9',
+      onuId: '3',
+      interfaceName: 'onu 1101.9.3',
+      serialNumber: 'ADTN20112752',
+      description: 'onu-0/9-3 - 21 Elliott Road, PETERLEE, SR8 5HT'
+    },
+    {
+      port: '14',
+      onuId: '0',
+      interfaceName: 'onu 1101.14.0',
+      serialNumber: 'ADTN20112380',
+      description: 'onu-0/14-0 - 20 Maurice Cullen Close, DURHAM, DH6 2FA'
+    },
+    {
+      port: '15',
+      onuId: '2',
+      interfaceName: 'onu 1101.15.2',
+      serialNumber: 'ADTN20304D6B',
+      description: 'onu-0/15-2 - 8 Heath Close, PETERLEE, SR8 5RY'
+    },
+    {
+      port: '1',
+      onuId: '4',
+      interfaceName: 'onu 1101.1.4',
+      serialNumber: 'ADTN20112579',
+      description: 'onu-0/1-4 - 46 Lambton Court, PETERLEE, SR8 1NG'
+    },
+    {
+      port: '6',
+      onuId: '3',
+      interfaceName: 'onu 1101.6.3',
+      serialNumber: 'ADTN2011255A',
+      description: 'onu-0/6-3 - 32 Balmoral Drive, PETERLEE, SR8 1QP'
+    }
+  ],
+  moreThanOneOrderItem: [
+    {
+      port: '16',
+      onuId: '1',
+      interfaceName: 'onu 1101.0.1',
+      serialNumber: 'ADTN2012999C',
+      description: 'onu-0/0-1 - 18 ELEVENTH STREET, PETERLEE, SR8 4QQ'
+    },
+    {
+      port: '2',
+      onuId: '5',
+      interfaceName: 'onu 1101.2.5',
+      serialNumber: 'ADTN20304C80',
+      description: 'onu-0/2-5 - 9 TYNE TERRACE, PETERLEE, SR8 3JY'
+    }
+  ],
+  devicesNotInOdin: [
+    {
+      oltIp: '172.17.0.206',
+      port: '7',
+      onuId: '20',
+      interfaceName: 'onu 1101.7.20',
+      serialNumber: 'ADTN201166F6',
+      description: 'onu-0/7-20 - 20 HAZEL CRESCENT, PETERLEE, SR8 3HP',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -208,
+      fibreLength: 6445,
+      uptime: 447938
+    },
+    {
+      oltIp: '172.17.1.4',
+      port: '4',
+      onuId: '2',
+      interfaceName: 'onu 1101.4.2',
+      serialNumber: 'ADTN20304D76',
+      description: 'onu-0/4-2 - 14 SOUTH STREET, DURHAM, DH6 1HP',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -200,
+      fibreLength: 5547,
+      uptime: 558131
+    },
+    {
+      oltIp: '172.17.1.16',
+      port: '1',
+      onuId: '3',
+      interfaceName: 'onu 1101.1.3',
+      serialNumber: 'ADTN20116D74',
+      description: 'onu-0/1-3 - 46 Hilltop Road DH7 7TL',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -246,
+      fibreLength: 8109,
+      uptime: 559880
+    },
+    {
+      oltIp: '172.17.1.16',
+      port: '5',
+      onuId: '4',
+      interfaceName: 'onu 1101.5.4',
+      serialNumber: 'ADTN2030511C',
+      description: 'onu-0/5-4 - 48 Chadwick Close DH7 7RH',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -269,
+      fibreLength: 6721,
+      uptime: 544223
+    },
+    {
+      oltIp: '172.17.1.19',
+      port: '10',
+      onuId: '20',
+      interfaceName: 'onu 1101.10.20',
+      serialNumber: 'ADTN20116CF5',
+      description: 'onu-0/10-20 - 5 Longhill Court DH78LN',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -250,
+      fibreLength: 6495,
+      uptime: 552821
+    },
+    {
+      oltIp: '172.17.1.19',
+      port: '10',
+      onuId: '21',
+      interfaceName: 'onu 1101.10.21',
+      serialNumber: 'ADTN20116B2B',
+      description: 'onu-0/10-21 - 15 Littlewood Close Dh7 8LP',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -226,
+      fibreLength: 6748,
+      uptime: 535081
+    },
+    {
+      oltIp: '172.17.0.200',
+      port: '6',
+      onuId: '10',
+      interfaceName: 'onu 1101.6.10',
+      serialNumber: 'ADTN20116ECC',
+      description: 'onu-0/6-10 - 11 Pickard Close, SR8 5LZ',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -276,
+      fibreLength: 1988,
+      uptime: 40476
+    },
+    {
+      oltIp: '172.17.0.196',
+      port: '12',
+      onuId: '3',
+      interfaceName: 'onu 1101.12.3',
+      serialNumber: 'ADTN20116D97',
+      description: 'onu-0/12-3 - 34 Brandling Court DH6 2QE',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -276,
+      fibreLength: 6259,
+      uptime: 549340
+    },
+    {
+      oltIp: '172.17.0.204',
+      port: '11',
+      onuId: '0',
+      interfaceName: 'onu 1101.11.0',
+      serialNumber: 'ADTN2010128D',
+      description: 'onu-0/11-0 - Horden Library',
+      adminStatus: 'down',
+      operStatus: 'down'
+    },
+    {
+      oltIp: '172.17.1.18',
+      port: '1',
+      onuId: '3',
+      interfaceName: 'onu 1101.1.3',
+      serialNumber: 'ADTN20304CDB',
+      description: 'onu-0/1-3 - 93 Taylorrrrs Avenue, Durham DH7 7AX',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -216,
+      fibreLength: 8870,
+      uptime: 555743
+    },
+    {
+      oltIp: '172.17.1.66',
+      port: '1',
+      onuId: '5',
+      interfaceName: 'onu 1101.1.5',
+      serialNumber: 'ADTN20116E15',
+      description: 'onu-0/1-5 - 43 Rushmoor DL16 6NX',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -197,
+      fibreLength: 1051,
+      uptime: 452368
+    },
+    {
+      oltIp: '172.17.1.68',
+      port: '10',
+      onuId: '0',
+      interfaceName: 'onu 1101.10.0',
+      serialNumber: 'ADTN20304CE4',
+      description: 'onu-0/10-0 - 15 Barrington Terrace, Ferryhill, DL17 8NW',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -222,
+      fibreLength: 5226,
+      uptime: 566109
+    },
+    {
+      oltIp: '172.17.1.68',
+      port: '16',
+      onuId: '3',
+      interfaceName: 'onu 1101.0.3',
+      serialNumber: 'ADTN20116D03',
+      description: 'onu-0/0-3 - 11 Hewick Rd Spennymoor',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -177,
+      fibreLength: 2643,
+      uptime: 552476
+    },
+    {
+      oltIp: '172.17.1.69',
+      port: '12',
+      onuId: '11',
+      interfaceName: 'onu 1101.12.11',
+      serialNumber: 'ADTN20116CFF',
+      description: 'onu-0/12-11 - 19 Meadow Green Spennymoor',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -203,
+      fibreLength: 2714,
+      uptime: 218281
+    },
+    {
+      oltIp: '172.17.1.69',
+      port: '11',
+      onuId: '10',
+      interfaceName: 'onu 1101.11.10',
+      serialNumber: 'ADTN20116D06',
+      description: 'onu-0/11-10 - 6 Castle Close Spennymoor',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -229,
+      fibreLength: 2776,
+      uptime: 54044
+    },
+    {
+      oltIp: '172.17.4.133',
+      port: '4',
+      onuId: '2',
+      interfaceName: 'onu 1101.4.2',
+      serialNumber: 'ADTN201179C5',
+      description: 'onu-0/4-2 - 90 Broad Acre Road, Cheltenham GL52 3HU',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -196,
+      fibreLength: 4563,
+      uptime: 538198
+    },
+    {
+      oltIp: '172.17.4.133',
+      port: '5',
+      onuId: '0',
+      interfaceName: 'onu 1101.5.0',
+      serialNumber: 'ADTN20117943',
+      description: 'onu-0/5-0 - 11 Bushel Road, Cheltenham GL52 3NA',
+      adminStatus: 'up',
+      operStatus: 'up',
+      rxPower: -199,
+      fibreLength: 4705,
+      uptime: 563651
+    }
+  ],
+  failedStatusCheck: [],
+  devicesToDelete: [],
+  ordersNotActiveWithDevices: [],
+  orderItemMissingRouter: []
+}

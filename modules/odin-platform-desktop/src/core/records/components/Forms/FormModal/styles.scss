@@ -1,0 +1,29 @@
+.dynamic-form-modal {
+
+  z-index: 5000;
+
+  .dynamic-form {
+
+    label {
+      text-transform: capitalize;
+      font-weight: 600;
+    }
+
+    @media (max-width: 640px) {
+      max-height: 300px;
+      overflow: auto;
+    }
+  }
+}
+.select-option-description {
+  color: gray;
+  display: block;
+  line-height: 16px;
+  margin-top: -1px;
+  font-size: 0.8rem;
+}
+.ant-select-selector .ant-select-selection-item {
+ .select-option-value b {
+   font-weight: 400;
+ } 
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3ac7d858-0a80-4052-9cde-bc16a329f700",
+  "entity": "ProjectModule:FeatureComponent",
+  "type": "TUBE_FIBER",
+  "schemaTypeId": "9d49e970-d86f-44a7-bb0d-f48ba744202b",
+  "schemaPosition": 0,
+  "schemaId": "731b2b0c-2735-43e7-a829-e145d0d07f9e",
+  "schemaAssociationId": "fd943ed3-b43f-4786-85d3-7f30da237434",
+  "externalId": null,
+  "title": null,
+  "recordNumber": "FCP82359",
+  "createdAt": "2021-07-16T20:41:27.364Z",
+  "updatedAt": "2021-07-16T20:41:27.364Z",
+  "deletedAt": null,
+  "stageUpdatedAt": null,
+  "createdBy": {
+    "id": "41abd332-65cb-40ea-af70-87364d2d0ff2",
+    "fullName": "Test User"
+  },
+  "lastModifiedBy": {
+    "id": "41abd332-65cb-40ea-af70-87364d2d0ff2",
+    "fullName": "Test User"
+  },
+  "ownedBy": null,
+  "properties": {
+    "Description": null,
+    "FiberColor": "12",
+    "FiberNumber": "12",
+    "FiberState": null,
+    "TubeId": "629098ec-0b22-40d8-aa1d-fc867e7944a1"
+  },
+  "dbRecordAssociation": {
+    "id": "452d5b23-e2ce-41e1-8d7a-a916063dcb0b",
+    "relatedAssociationId": null,
+    "createdAt": "2021-07-16T22:47:01.579Z",
+    "updatedAt": "2021-07-16T22:47:01.579Z"
+  },
+  "groups": null,
+  "links": [],
+  "relationType": "parent"
+},

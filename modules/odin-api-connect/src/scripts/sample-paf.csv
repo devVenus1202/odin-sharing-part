@@ -1,0 +1,4 @@
+postcode, posttown, dependent_locality, double_dependent_locality, thoroughfare_and_descriptor, dependent_thoroughfare_and_descriptor, building_number, building_name, sub_building_name, po_box, department_name, organization_name, udprn, postcode_type, su_organization_indicator, delivery_point_suffix, address_key, organization_key, number_of_households,locality_key
+AB10 1AB,ABERDEEN,,,Broad Street,, ,Marischal College,,,,Aberdeen City Council,52447276,L, ,1A
+AB10 1AF,ABERDEEN,,,Broad Street,, ,Marischal College,,,Director Of Housing,Aberdeen City Council,1,L, ,1A
+AB10 1AQ,ABERDEEN,,,Broad Street,, ,Marischal College,,,Office Of The City Solicitor,Aberdeen City Council,13,L, ,1A

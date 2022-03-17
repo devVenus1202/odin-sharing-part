@@ -1,0 +1,27 @@
+
+.list-action-menu {
+
+  min-width: 100px;
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: .25rem;
+
+  .list-action-menu-item {
+
+    padding: 0px;
+
+  }
+
+  .delete-list-item {
+    display: flex;
+    justify-content: center;
+  }
+
+  .delete-list-item:hover {
+    background-color: #f5f5f5 !important;
+    color: #ff7875;
+  }
+
+}
+
+

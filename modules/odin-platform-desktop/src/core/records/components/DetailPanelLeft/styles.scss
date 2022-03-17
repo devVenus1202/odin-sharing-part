@@ -1,0 +1,48 @@
+.detail-panel-left {
+  //height: 100%;
+  width: 100%;
+
+  .card {
+    //height: 100%;
+  }
+  .record-title-wrapper {
+    overflow: hidden;
+    max-width: max-content;
+    .anticon-link {
+      position: relative;
+      top: 5px;
+      cursor: pointer;
+      visibility: hidden;
+      left: -10px;
+      transition: .1s;
+      width: 22px;
+    }
+  }
+  .record-title-wrapper:hover {
+    .record-title {
+      text-decoration: underline;
+      cursor: pointer;
+      opacity: 0.9;
+    }
+    .anticon-link {
+      visibility: visible;
+      transition: .1s;
+      left: 5px;
+    }
+  }
+}
+
+.detail-action-menu {
+
+  min-width: 100px;
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: .25rem;
+
+  .detail-menu-item {
+
+    padding: 0px;
+
+  }
+
+}
